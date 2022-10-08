@@ -1,4 +1,4 @@
-# login_basic_app
+# example-vue-login
 
 これは、Hexabaseのフロントエンドプログラムに利用できる、ログイン機能のサンプルプログラムです。Hexabaseへのログインと簡単なユーザー管理を提供します。
 
@@ -62,4 +62,4 @@ Please see LICENSE file.
 
 ## 関連ページ
 
-- [サンプル一覧](https://b-eee.github.io/development_guide/docs/example/index)
+- [サンプル一覧](https://devdoc.hexabase.com/docs/example/)
